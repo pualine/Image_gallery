@@ -1,0 +1,9 @@
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\bin\Debug\Image Album Q3.exe
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\bin\Debug\Image Album Q3.pdb
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\bin\Debug\Image Album Q3.xml
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\obj\x86\Debug\Image_Album_Q3.Form1.resources
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\obj\x86\Debug\Image_Album_Q3.Resources.resources
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\obj\x86\Debug\Image Album Q3.vbproj.GenerateResource.Cache
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\obj\x86\Debug\Image Album Q3.exe
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\obj\x86\Debug\Image Album Q3.xml
+c:\users\tech age\documents\visual studio 2010\Projects\Image Album Q3\Image Album Q3\obj\x86\Debug\Image Album Q3.pdb
